@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.btn {
+    padding: .55rem 1.5rem .45rem;
+  }
+
+  
